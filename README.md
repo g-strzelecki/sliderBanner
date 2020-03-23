@@ -1,0 +1,2 @@
+# sliderBanner
+fullSizedBanner
